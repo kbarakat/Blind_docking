@@ -1,0 +1,10 @@
+Dock_42 pose_99 -5.24
+Dock_55 pose_52 -5.11
+Dock_31 pose_98 -4.33
+Dock_1 pose_86 -4.27
+Dock_26 pose_70 -4.24
+Dock_72 pose_79 -4.22
+Dock_21 pose_69 -4.1
+Dock_20 pose_48 -3.56
+Dock_13 pose_95 -3.9
+Dock_27 pose_40 -3.9

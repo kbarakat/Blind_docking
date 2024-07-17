@@ -1,0 +1,10 @@
+Dock_55 pose_72 -5.22
+Dock_40 pose_26 -5.16
+Dock_70 pose_59 -5.04
+Dock_1 pose_75 -4.19
+Dock_34 pose_4 -3.98
+Dock_39 pose_81 -4.04
+Dock_12 pose_65 -3.99
+Dock_75 pose_49 -3.97
+Dock_20 pose_3 -3.94
+Dock_14 pose_32 -3.89
